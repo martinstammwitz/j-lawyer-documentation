@@ -63,6 +63,7 @@ Bei Reporte mit Aktenbezug kann per **Rechtsklick** auf eine Tabellenzeile direk
 | **Umsatz pro Kunde / Kundin** | Umsätze pro Kunde/Kundin, basierend auf bezahlten Rechnungen, filterbar nach Fälligkeitsdatum | Ja |
 | **Aktenkonto – Buchungen** | Alle Buchungen in Aktenkonten in einem bestimmten Zeitraum, filterbar nach Buchungsdatum | Ja |
 | **Akten mit nicht ausgeglichenem Fremdgeld** | Akten mit nicht ausgeglichenem Fremdgeld, filterbar nach Erstellungsdatum der Akte | Nein |
+| **Saldenliste Fremdgeld und Auslagen** | Akten mit offenem Fremdgeld- oder Auslagensaldo zum Stichtag (Ende des Zeitraums), berechnet aus den Buchungen mit Buchungsdatum im Zeitraum; der Beginn ist auf den 01.01.2000 vorbelegt. Die Summenzeile zeigt den gesamten Fremdgeldbestand, z. B. für den Abgleich mit dem Anderkonto. Es werden nur Akten berücksichtigt, auf die der Benutzer Zugriff hat. | Nein |
 | **Ergebnis pro Akte** | Betriebswirtschaftliches Ergebnis pro Akte basierend auf Aktenkonten, filterbar nach Erstellungsdatum der Akte | Ja |
 
 ### Zeiterfassung {#zeiterfassung}
